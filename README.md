@@ -34,6 +34,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Demo
 
-* Login page [http://localhost:3000/login](http://localhost:3000/login)
+* Dev Login page [http://localhost:3000/login](http://localhost:3000/login)
+
+- Hosted page [https://react-star-wars.firebaseapp.com/login](https://react-star-wars.firebaseapp.com/login)
+
 * Login with `luke/19bby`
 * Search planet name e.g. `tatooine`
